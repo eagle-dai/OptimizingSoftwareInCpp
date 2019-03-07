@@ -1,6 +1,7 @@
 # OptimizingSoftwareInCpp
 
-原文链接：http://agner.org/optimize/optimizing_cpp.pdf
+英文原文链接：http://agner.org/optimize/optimizing_cpp.pdf
+翻译：https://github.com/eagle-dai/OptimizingSoftwareInCpp
 
 这里不是正式翻译，而更像较为详细的读书笔记
 - 原文中的长句如果语法结构比较复杂，一般被按照汉语习惯拆成短句
